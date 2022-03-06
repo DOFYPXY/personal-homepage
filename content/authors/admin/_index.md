@@ -24,8 +24,11 @@ interests:
 education:
   courses:
   - course: BSc in Computer Science
-    institution: Peking University
-    year: 2022 (expected)
+    institution: Turing Class, Peking University
+    year: 2023 (expected)
+  - course: Senior High School
+    institution: The Attached Middle School of Jiangxi Normal University
+    year: 2019
   # - course: BSc in Computer Science
   #   institution: Peking University
   #   year: 2022 (expected)
@@ -68,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I’m Xuanyu Peng(彭轩宇), a undergraduate student from School of [Electronic Engnieering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
+I’m Xuanyu Peng（彭轩宇）, a undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
 
 Here is my [daily blog](blog.dofy.top).
 
