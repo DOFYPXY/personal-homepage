@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/DOFYPXY/dofypxy.github.io.git
+	branch = master
