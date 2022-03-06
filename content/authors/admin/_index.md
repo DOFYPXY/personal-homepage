@@ -73,7 +73,7 @@ highlight_name: true
 
 I’m Xuanyu Peng（彭轩宇）, a undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
 
-Here is my [daily blog](blog.dofy.top).
+Here is my [daily blog](http://blog.dofy.top).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-full.pdf" "newtab" >}}CV{{< /staticref >}}.
 
