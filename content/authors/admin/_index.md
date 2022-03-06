@@ -68,7 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-I’m DOFY, a undergraduate student from School of Electronic Engnieering and Computer Science, Peking University.
+I’m Xuanyu Peng(彭轩宇), a undergraduate student from School of [Electronic Engnieering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
+
+Here is my [daily blog](blog.dofy.top).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-full.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
