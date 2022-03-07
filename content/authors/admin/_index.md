@@ -14,7 +14,7 @@ organizations:
   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m DOFY, a undergraduate student from School of Electronic Engnieering and Computer Science, Peking University.
+bio: I’m DOFY, an undergraduate student from School of Electronic Engnieering and Computer Science, Peking University.
 
 # Interests to show in About widget
 interests:
@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I’m Xuanyu Peng（彭轩宇）, a undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
+I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
 
 Here is my [daily blog](http://dofy.top).
 
