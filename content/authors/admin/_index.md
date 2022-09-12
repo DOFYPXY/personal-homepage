@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis.
+I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis. I am also interning at [Veridise](https://veridise.com), a company that provides a solution for hardening the security of the blockchain ecosystem. And the internship is under the supervision of [Prof. Isil Dillig](https://www.cs.utexas.edu/~isil/) and [Prof. Yu Feng](https://fredfeng.github.io/).
 
 Here is my [daily blog](http://dofy.top).
 
