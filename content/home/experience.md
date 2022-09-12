@@ -39,7 +39,7 @@ experience:
   - title: Research Intern
     company: Veridise Inc.
     company_url: 'https://veridise.com'
-    company_logo: org-x
+    company_logo: veridise
     location: Austin, TX, USA
     date_start: '2022-05-01'
     date_end: ''
