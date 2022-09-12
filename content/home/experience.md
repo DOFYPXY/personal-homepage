@@ -36,6 +36,15 @@ experience:
     #     * Modelling
     #     * Deploying
         
+  - title: Research Intern
+    company: Veridise Inc.
+    company_url: 'https://veridise.com'
+    company_logo: org-x
+    location: Austin, TX, USA
+    date_start: '2022-05-01'
+    date_end: ''
+    # description: Taught electronic engineering and researched semiconductor physics.
+
   # - title: Professor of Semiconductor Physics
   #   company: University X
   #   company_url: ''

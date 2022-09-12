@@ -18,7 +18,9 @@ bio: I’m DOFY, an undergraduate student from School of Electronic Engnieering 
 
 # Interests to show in About widget
 interests:
-- Programming languages
+- Program Synthesis
+- Program Verification
+- Blockchain Security
 
 # Education to show in About widget
 education:
@@ -26,9 +28,9 @@ education:
   - course: BSc in Computer Science
     institution: Turing Class, Peking University
     year: 2023 (expected)
-  - course: Senior High School
-    institution: The Attached Middle School of Jiangxi Normal University
-    year: 2019
+  # - course: Senior High School
+  #   institution: The Attached Middle School of Jiangxi Normal University
+  #   year: 2019
   # - course: BSc in Computer Science
   #   institution: Peking University
   #   year: 2022 (expected)
