@@ -77,6 +77,6 @@ I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [P
 
 Here is my [daily blog](http://dofy.top).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/full-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
