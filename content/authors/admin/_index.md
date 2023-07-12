@@ -20,14 +20,14 @@ bio: I’m DOFY, an undergraduate student from School of Electronic Engnieering 
 interests:
 - Program Synthesis
 - Program Verification
-- Blockchain Security
+- Resource Analysis
 
 # Education to show in About widget
 education:
   courses:
   - course: BSc in Computer Science
     institution: Turing Class, Peking University
-    year: 2023 (expected)
+    year: 2023 
   # - course: Senior High School
   #   institution: The Attached Middle School of Jiangxi Normal University
   #   year: 2019
@@ -73,7 +73,11 @@ email: ""
 highlight_name: true
 ---
 
-I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis. I am also interning at [Veridise](https://veridise.com), a company that provides a solution for hardening the security of the blockchain ecosystem. And the internship is under the supervision of [Prof. Isil Dillig](https://www.cs.utexas.edu/~isil/) and [Prof. Yu Feng](https://fredfeng.github.io/).
+<!-- I’m Xuanyu Peng（彭轩宇）, an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I'm now doing research at [PL lab](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). My main research interest is programming languages, especially program synthesis. I am also interning at [Veridise](https://veridise.com), a company that provides a solution for hardening the security of the blockchain ecosystem. And the internship is under the supervision of [Prof. Isil Dillig](https://www.cs.utexas.edu/~isil/) and [Prof. Yu Feng](https://fredfeng.github.io/). -->
+
+**I am an incoming Ph.D. student at University of Wisconsin - Madison.**
+
+I was an an undergraduate student from Turing Class, [Peking University](https://pku.edu.cn). I used to be a member of [PKU-PLL](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/). I also worked closely with [Prof. Di Wang](https://stonebuddha.github.io/). My main research interest is programming languages, especially program synthesis.
 
 Here is my [daily blog](http://dofy.top).
 

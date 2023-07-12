@@ -41,8 +41,8 @@ experience:
     company_url: 'https://veridise.com'
     company_logo: veridise
     location: Austin, TX, USA
-    date_start: '2022-05-01'
-    date_end: ''
+    date_start: '2022-07-01'
+    date_end: '2022-02-28'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   # - title: Professor of Semiconductor Physics
