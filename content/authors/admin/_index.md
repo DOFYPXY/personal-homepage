@@ -10,8 +10,8 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Peking University
-  url: https://www.pku.edu.cn/
+- name: University of Wisconsin - Madison
+  url: https://www.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m DOFY, an undergraduate student from School of Electronic Engnieering and Computer Science, Peking University.
