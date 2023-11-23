@@ -28,7 +28,7 @@ education:
     - course: Ph.D. in Computer Science
     institution: University of Wisconsin, Madison
     year: 20?? 
-  - course: BSc in Computer Science
+    - course: BSc in Computer Science
     institution: Turing Class, Peking University
     year: 2023 
   # - course: Senior High School
