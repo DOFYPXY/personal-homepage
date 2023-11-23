@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-  institution: University of Wisconsin, Madison
+  institution: University of Wisconsin - Madison
   year: 20xx
   - course: BSc in Computer Science
   institution: Turing Class, Peking University
