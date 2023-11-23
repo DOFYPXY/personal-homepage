@@ -26,11 +26,11 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-  institution: University of Wisconsin - Madison
-  year: 20xx
+    institution: University of Wisconsin - Madison
+    year: 20xx
   - course: BSc in Computer Science
-  institution: Turing Class, Peking University
-  year: 2023 
+    institution: Turing Class, Peking University
+    year: 2023 
   # - course: Senior High School
   #   institution: The Attached Middle School of Jiangxi Normal University
   #   year: 2019
