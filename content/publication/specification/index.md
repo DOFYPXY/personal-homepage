@@ -30,14 +30,7 @@ publication_types: ["1"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: "Specifications allow us to formally state and understand what programs are intended to do. To help one extract useful properties from code, Park et al. recently proposed a framework that given (i) a *quantifier-free* query $\Psi$ posed about a set of function definitions, and (ii) a domain-specific language $\mathcal{L}$ in which each extracted property is to be expressed (we call properties in the language $\mathcal{L}$-properties), synthesizes a set $\{\varphi_1, \ldots , \varphi_n\}$ of $\mathcal{L}$-properties such that each of the $\varphi_i$ is a **strongest $\mathcal{L}$-consequence** for $\Psi$: $\varphi_i$ is an over-approximation of $\Psi$ and there is no other $\mathcal{L}$-property that over-approximates $\Psi$ and is strictly more precise than $\varphi_i$.
-
-The framework by Park et al. has two key limitations. First, it only supports quantifier-free query formulas and thus cannot synthesize specifications for queries involving nondeterminism, concurrency, etc. Second, it can only compute $\mathcal{L}$-consequences, i.e., **over-approximations** of the program behavior.
-
-This paper addresses these two limitations and presents a framework, Loud, for synthesizing strongest $\mathcal{L}$-consequences and **weakest $\mathcal{L}$-implicants** (i.e., under-approximations of the query $\Psi$) for function definitions that can involve *existential quantifiers*.
-
-We implemented a solver, Aspire, for problems expressed in Loud which can be used to describe and identify sources of bugs in both deterministic and nondeterministic programs,
-extract properties from concurrent programs, and synthesize winning strategies in two-player games."
+abstract: "Specifications allow us to formally state and understand what programs are intended to do. To help one extract useful properties from code, Park et al. recently proposed a framework that given (i) a *quantifier-free* query $\Psi$ posed about a set of function definitions, and (ii) a domain-specific language $\mathcal{L}$ in which each extracted property is to be expressed (we call properties in the language $\mathcal{L}$-properties), synthesizes a set $\{\varphi_1, \ldots , \varphi_n\}$ of $\mathcal{L}$-properties such that each of the $\varphi_i$ is a **strongest $\mathcal{L}$-consequence** for $\Psi$: $\varphi_i$ is an over-approximation of $\Psi$ and there is no other $\mathcal{L}$-property that over-approximates $\Psi$ and is strictly more precise than $\varphi_i$."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
