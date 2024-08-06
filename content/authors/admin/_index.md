@@ -10,11 +10,11 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Wisconsin - Madison
-  url: https://www.wisc.edu/
+- name: University of California - San Diego
+  url: https://cse.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m DOFY, an undergraduate student from School of Electronic Engnieering and Computer Science, Peking University.
+bio: I’m DOFY, a PhD student in computer science at UCSD
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: University of Wisconsin - Madison
+    institution: University of California - San Diego
     year: 20xx
   - course: BSc in Computer Science
     institution: Turing Class, Peking University
@@ -48,7 +48,7 @@ social:
 #   link: '/#contact'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dofypxy@pku.edu.cn'
+  link: 'mailto:xup002@ucsd.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a second year Ph.D. student at computer science in [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Prof. Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My main research interest is programming languages, especially program synthesis.
+I am a second year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Prof. Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My main research interest is programming languages, especially program synthesis.
 
 Before moving to UCSD, I had a wonderful year in [UW-Madison](https://www.wisc.edu/). Before that, I received my B.S. degree in computer science from Turing Class, [Peking University](https://pku.edu.cn). I used to be a member of [PKU-PLL](https://pl.cs.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](https://xiongyingfei.github.io/) and [Prof. Di Wang](https://stonebuddha.github.io/).
 
