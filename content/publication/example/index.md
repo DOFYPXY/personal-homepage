@@ -1,6 +1,6 @@
 ---
 title: "An example conference paper"
-private: true
+draft: true
 ---
 
 # Authors
