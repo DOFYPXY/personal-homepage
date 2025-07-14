@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: In *Object-oriented Programming, Systems, Languages, and Applications* 2025
+publication_short: In *OOPSLA25*
 
 abstract: |
     Specifications allow us to formally state and understand what programs are intended to do. To help one extract useful properties from code, Park et al. recently proposed a framework that given (i) a *quantifier-free* query $\Psi$ posed about a set of function definitions, and (ii) a domain-specific language $\mathcal{L}$ in which each extracted property is to be expressed (we call properties in the language $\mathcal{L}$-properties), synthesizes a set $\{\varphi_1, \ldots , \varphi_n\}$ of $\mathcal{L}$-properties such that each of the $\varphi_i$ is a **strongest $\mathcal{L}$-consequence** for $\Psi$, i.e., $\varphi_i$ is an over-approximation of $\Psi$ and there is no other $\mathcal{L}$-property that over-approximates $\Psi$ and is strictly more precise than $\varphi_i$.
