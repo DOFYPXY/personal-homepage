@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a second year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My recent research focuses on developing **program synthesis** techniques that can be applied to other domains in programming languages, such as specification mining and static analysis.
+I am a second year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My recent research focuses on developing **program synthesis** techniques that can be applied to PL-related domains, such as specification mining and static analysis.
 
 I am currently working as a Research Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds).
 
