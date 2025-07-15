@@ -35,6 +35,15 @@ experience:
   #   #     * Analysing
   #   #     * Modelling
   #   #     * Deploying
+
+  - title: Applied Scientist Intern
+    company: Amazon Web Services
+    company_url: 'https://www.amazon.science/research-areas/automated-reasoning'
+    company_logo: automatedreasoning
+    location: Arlington, VA, USA
+    date_start: '2025-06-09'
+    date_end: '2025-09-12'
+    # description: Taught electronic engineering and researched semiconductor physics.
         
   - title: Research Intern
     company: Veridise Inc.
@@ -45,14 +54,7 @@ experience:
     date_end: '2022-02-28'
     # description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Applied Scientist Intern
-    company: Amazon Web Services
-    company_url: 'https://www.amazon.science/research-areas/automated-reasoning'
-    company_logo: automatedreasoning
-    location: Arlington, VA, USA
-    date_start: '2025-06-09'
-    date_end: '2025-09-12'
-    # description: Taught electronic engineering and researched semiconductor physics.
+
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
