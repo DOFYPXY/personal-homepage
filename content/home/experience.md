@@ -51,7 +51,7 @@ experience:
     company_logo: veridise
     location: Remote
     date_start: '2022-07-01'
-    date_end: '2022-02-28'
+    date_end: '2023-02-28'
     # description: Taught electronic engineering and researched semiconductor physics.
 
 
