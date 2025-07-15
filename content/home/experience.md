@@ -22,27 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Programming Languages Lab
-    company_url: ''
-    # company_logo: org-gc
-    location: Peking University, Beijing
-    date_start: '2021-03-01'
-    date_end: '2023-06-30'
-    # description: |2-
-    #     Responsibilities include:
+  # - title: Research Assistant
+  #   company: Programming Languages Lab
+  #   company_url: ''
+  #   # company_logo: org-gc
+  #   location: Peking University, Beijing
+  #   date_start: '2021-03-01'
+  #   date_end: '2023-06-30'
+  #   # description: |2-
+  #   #     Responsibilities include:
         
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+  #   #     * Analysing
+  #   #     * Modelling
+  #   #     * Deploying
         
   - title: Research Intern
     company: Veridise Inc.
     company_url: 'https://veridise.com'
     company_logo: veridise
-    location: Austin, TX, USA
+    location: Remote
     date_start: '2022-07-01'
     date_end: '2022-02-28'
+    # description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Applied Scientist Intern
+    company: Amazon Web Services
+    company_url: 'https://www.amazon.science/research-areas/automated-reasoning'
+    company_logo: automatedreasoning
+    location: Remote
+    date_start: '2025-06-09'
+    date_end: '2025-09-12'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   # - title: Professor of Semiconductor Physics
