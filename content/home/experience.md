@@ -49,7 +49,7 @@ experience:
     company: Amazon Web Services
     company_url: 'https://www.amazon.science/research-areas/automated-reasoning'
     company_logo: automatedreasoning
-    location: Remote
+    location: Arlington, VA, USA
     date_start: '2025-06-09'
     date_end: '2025-09-12'
     # description: Taught electronic engineering and researched semiconductor physics.
