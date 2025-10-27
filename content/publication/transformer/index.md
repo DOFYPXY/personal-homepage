@@ -1,5 +1,5 @@
 ---
-title: "LOUD: Synthesizing Strongest and Weakest Specifications"
+title: "Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
