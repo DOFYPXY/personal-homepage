@@ -78,7 +78,7 @@ highlight_name: true
 
 I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in specification mining, static analysis, and fuzzing.
 
-I was working as a Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds).
+I worked as a Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds).
 
 Before moving to UCSD, I had a wonderful year in [UW-Madison](https://www.wisc.edu/). I received my B.S. degree in computer science from Turing Class, [Peking University](https://pku.edu.cn). I used to be a member of [PKU-PLL](https://pl.cs.pku.edu.cn/), supervised by [Yingfei Xiong](https://xiongyingfei.github.io/) and [Di Wang](https://stonebuddha.github.io/).
 
