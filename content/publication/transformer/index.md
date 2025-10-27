@@ -5,7 +5,7 @@ title: "LOUD: Synthesizing Strongest and Weakest Specifications"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xuanyu Peng
+- admin
 - Dominic Kennedy
 - Yuyou Fan
 - Ben Greenman
