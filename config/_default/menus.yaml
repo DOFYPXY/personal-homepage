@@ -28,8 +28,8 @@ main:
   - name: Blog
     url : 'http://dofy.top'
     weight: 30
-  - name: Publications
-    url: '#publications'
+  - name: CV
+    url: 'uploads/CV.pdf'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
