@@ -81,8 +81,8 @@ I am a third year Ph.D. student in computer science at [University of California
 
 Before moving to UCSD, I had a wonderful year in [UW-Madison](https://www.wisc.edu/). I received my B.S. degree in computer science from Turing Class, [Peking University](https://pku.edu.cn). I used to be a member of [PKU-PLL](https://pl.cs.pku.edu.cn/), supervised by [Yingfei Xiong](https://xiongyingfei.github.io/) and [Di Wang](https://stonebuddha.github.io/).
 
-Here is my [daily blog](http://dofy.top).
+<!-- Here is my [daily blog](http://dofy.top). -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
 
 
