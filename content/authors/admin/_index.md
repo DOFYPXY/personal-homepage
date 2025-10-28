@@ -17,20 +17,20 @@ organizations:
 bio: I’m DOFY, a PhD student in computer science at UCSD
 
 # Interests to show in About widget
-interests:
-- Program Synthesis
-- Program Verification
+# interests:
+# - Program Synthesis
+# - Program Verification
 # - Resource Analysis
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Computer Science
-    institution: University of California - San Diego
-    year: 20xx
-  - course: BSc in Computer Science
-    institution: Turing Class, Peking University
-    year: 2023 
+# education:
+#   courses:
+#   - course: Ph.D. in Computer Science
+#     institution: University of California - San Diego
+#     year: 20xx
+#   - course: BSc in Computer Science
+#     institution: Turing Class, Peking University
+#     year: 2023 
   # - course: Senior High School
   #   institution: The Attached Middle School of Jiangxi Normal University
   #   year: 2019
@@ -76,9 +76,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in specification mining, static analysis, and fuzzing.
-
-I worked as a Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds).
+I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in specification mining, static analysis, and fuzzing. I worked as a Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning).
+ <!-- mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds). -->
 
 Before moving to UCSD, I had a wonderful year in [UW-Madison](https://www.wisc.edu/). I received my B.S. degree in computer science from Turing Class, [Peking University](https://pku.edu.cn). I used to be a member of [PKU-PLL](https://pl.cs.pku.edu.cn/), supervised by [Yingfei Xiong](https://xiongyingfei.github.io/) and [Di Wang](https://stonebuddha.github.io/).
 
