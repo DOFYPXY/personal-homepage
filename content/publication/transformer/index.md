@@ -62,6 +62,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- name: Arxiv
+  url: https://www.arxiv.org/abs/2512.06442
+
 url_pdf: ''
 url_code: 'https://github.com/Hatsunespica/xdsl-smt/tree/synth_transfer/xdsl_smt'
 url_dataset: ''
