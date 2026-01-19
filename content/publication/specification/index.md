@@ -68,7 +68,6 @@ links:
 - name: Arxiv
   url: https://www.arxiv.org/abs/2512.06442
 
-# 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
