@@ -53,6 +53,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- name: DOI
+  url: https://doi.org/10.1145/3720470
+- name: Arxiv
+  url: https://www.arxiv.org/abs/2512.06442
+
 url_pdf: ''
 url_code: 'https://github.com/ebmoon/spyro-sketch/tree/underapprox'
 url_dataset: ''
@@ -61,12 +67,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: 'https://youtu.be/HIfH4Id7EQw?si=o0WJ_eOeO02BcHVx'
-
-links:
-- name: DOI
-  url: https://doi.org/10.1145/3720470
-- name: Arxiv
-  url: https://www.arxiv.org/abs/2512.06442
 
 
 # Featured image
