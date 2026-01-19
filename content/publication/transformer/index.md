@@ -63,8 +63,11 @@ featured: true
 #   url: http://example.org
 
 links:
+- name: DOI
+  url: https://doi.org/10.1145/3776722
 - name: Arxiv
   url: https://www.arxiv.org/abs/2512.06442
+
 
 url_pdf: ''
 url_code: 'https://github.com/Hatsunespica/xdsl-smt/tree/synth_transfer/xdsl_smt'
@@ -73,7 +76,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/live/slxbo0FVhRk?si=elR6Ol25eRnJK2Im&t=14505'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
