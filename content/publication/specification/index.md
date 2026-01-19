@@ -60,7 +60,15 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/HIfH4Id7EQw?si=o0WJ_eOeO02BcHVx'
+
+links:
+- name: DOI
+  url: https://doi.org/10.1145/3720470
+- name: Arxiv
+  url: https://www.arxiv.org/abs/2512.06442
+
+# 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
