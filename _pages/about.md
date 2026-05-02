@@ -19,6 +19,8 @@ announcements:
 
 latest_posts:
   enabled: false
+
+misc_blurb: I like traveling and care about my [coverage](/misc/).
 ---
 
 I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in specification mining, static analysis, and fuzzing. I worked as an Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds).

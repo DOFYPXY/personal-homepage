@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Misc -->
+    {% if page.misc_blurb %}
+      <h2>
+        <a href="{{ '/misc/' | relative_url }}" style="color: inherit">Misc</a>
+      </h2>
+      {{ page.misc_blurb | markdownify }}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
