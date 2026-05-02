@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. student in Computer Science at <a href='https://cse.ucsd.edu/'>UC San Diego</a>.
 
