@@ -16,7 +16,7 @@ I like traveling and care about my "coverage".
 - Unfortunately, these numbers have been stuck since August 2023.
 
 **In the United States**:
-- States visited: [**26 / 50**](/assets/img/CAM-Level.png).
+- States visited: [**26 / 51**](/assets/img/CAM-Level.png).
 - National Parks visited: **18 / 63** — none of them among [the popular top 10](https://www.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm#:~:text=Top%2010%20%2D%20National%20Parks%C2%A0).
 
 
