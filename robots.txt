@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dofypxy.github.io/sitemap.xml
