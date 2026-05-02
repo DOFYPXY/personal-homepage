@@ -1,0 +1,61 @@
+---
+---
+
+@inproceedings{Peng2026Transformer,
+  abbr        = {POPL},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {Nice to Meet You: Synthesizing Practical {MLIR} Abstract Transformers},
+  author      = {Peng, Xuanyu and Kennedy, Dominic and Fan, Yuyou and Greenman, Ben and Regehr, John and D'Antoni, Loris},
+  booktitle   = {Symposium on Principles of Programming Languages (POPL)},
+  year        = {2026},
+  doi         = {10.1145/3776722},
+  html        = {https://doi.org/10.1145/3776722},
+  arxiv       = {2512.06442},
+  code        = {https://github.com/Hatsunespica/xdsl-smt/tree/synth_transfer/xdsl_smt},
+  video       = {https://www.youtube.com/live/slxbo0FVhRk?si=elR6Ol25eRnJK2Im&t=14505},
+  abstract    = {Static analyses play a fundamental role during compilation: they discover facts that are true in all executions of the code being compiled, and then these facts are used to justify optimizations and diagnostics. Each static analysis is based on a collection of abstract transformers that provide abstract semantics for the concrete instructions that make up a program. It can be challenging to implement abstract transformers that are sound, precise, and efficient---and in fact both LLVM and GCC have suffered from miscompilations caused by unsound abstract transformers. Moreover, even after more than 20 years of development, LLVM lacks abstract transformers for some instructions in its intermediate representation (IR). We developed NiceToMeetYou: a program synthesis framework for abstract transformers that are aimed at the kind of non-relational integer abstract domains that are heavily used by today's production compilers. It exploits a simple but novel technique for breaking the synthesis problem into parts: each of our transformers is the meet of a collection of simpler, sound transformers that are synthesized such that each new piece fills a gap in the precision of the final transformer. Our design point is bulk automation: no sketches are required, and formal semantics for IR instructions were previously created using an SMT dialect of MLIR. Each of our synthesized transformers is provably sound, and some of them are more precise than those provided by LLVM.}
+}
+
+@article{Park2025LOUD,
+  abbr        = {OOPSLA},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {{LOUD}: Synthesizing Strongest and Weakest Specifications},
+  author      = {Park, Kanghee and Peng, Xuanyu and D'Antoni, Loris},
+  journal     = {Proc. ACM Program. Lang.},
+  volume      = {9},
+  number      = {OOPSLA1},
+  articleno   = {114},
+  numpages    = {28},
+  year        = {2025},
+  month       = apr,
+  publisher   = {Association for Computing Machinery},
+  doi         = {10.1145/3720470},
+  html        = {https://doi.org/10.1145/3720470},
+  arxiv       = {2512.06442},
+  code        = {https://github.com/ebmoon/spyro-sketch/tree/underapprox},
+  video       = {https://youtu.be/HIfH4Id7EQw?si=o0WJ_eOeO02BcHVx},
+  annotation  = {* Equal contribution by Kanghee Park and Xuanyu Peng.},
+  abstract    = {This paper tackles the problem of synthesizing specifications for nondeterministic programs. For such programs, useful specifications can capture demonic properties, which hold for every nondeterministic execution, but also angelic properties, which hold for some nondeterministic execution. We build on top of a recently proposed Spyro framework in which given (i) a quantifier-free query Psi posed about a set of function definitions, and (ii) a language L in which each extracted property is to be expressed, the goal is to synthesize a conjunction of L-properties such that each is a strongest L-consequence for Psi. This paper extends the framework to support existential quantifiers in queries and to compute weakest L-implicants, presenting a framework, LOUD, and a solver, ASPIRE.}
+}
+
+@article{Sun2023Memoization,
+  abbr        = {OOPSLA},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {Synthesizing Efficient Memoization Algorithms},
+  author      = {Sun, Yican and Peng, Xuanyu and Xiong, Yingfei},
+  journal     = {Proc. ACM Program. Lang.},
+  volume      = {7},
+  number      = {OOPSLA2},
+  articleno   = {225},
+  numpages    = {27},
+  year        = {2023},
+  month       = oct,
+  publisher   = {Association for Computing Machinery},
+  doi         = {10.1145/3622800},
+  html        = {https://doi.org/10.1145/3622800},
+  pdf         = {memoization.pdf},
+  abstract    = {In this paper, we propose an automated approach to finding correct and efficient memoization algorithms from a given declarative specification. This problem has two major challenges: (i) a memoization algorithm is too large to be handled by conventional program synthesizers; (ii) we need to guarantee the efficiency of the memoization algorithm. To address this challenge, we structure the synthesis of memoization algorithms by introducing the local objective function and the memoization partition function and reduce the synthesis task to two smaller independent program synthesis tasks. Moreover, the number of distinct outputs of the function synthesized in the second synthesis task also decides the efficiency of the synthesized memoization algorithm, and we only need to minimize the number of different output values of the synthesized function. However, the generated synthesis task is still too complex for existing synthesizers. Thus, we propose a novel synthesis algorithm that combines the deductive and inductive methods to solve these tasks. To evaluate our algorithm, we collect 42 real-world benchmarks from Leetcode, the National Olympiad in Informatics in Provinces-Junior, and previous approaches. Our approach successfully synthesizes 39/42 problems in a reasonable time, outperforming the baselines.}
+}
