@@ -17,7 +17,7 @@ I like traveling and care about my "coverage".
 
 **In the United States**:
 - States visited: [**26 / 51**](/assets/img/CAM-Level.png).
-- National Parks visited: **18 / 63** — none of them among [the popular top 10](https://www.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm#:~:text=Top%2010%20%2D%20National%20Parks%C2%A0).
+- National Parks visited: **20 / 63** — none of them among [the popular top 10](https://www.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm#:~:text=Top%2010%20%2D%20National%20Parks%C2%A0).
 
 
 **Countries visited** (ordered by first visit): 🇨🇳 🇨🇦 🇺🇸 🇵🇪 🇧🇴 🇯🇵 🇲🇽 🇹🇷 🇸🇬 🇲🇾 🇫🇷
