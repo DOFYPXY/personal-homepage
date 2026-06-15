@@ -23,7 +23,8 @@ latest_posts:
 misc_blurb: I like traveling and care about my [coverage](/misc/).
 ---
 
-I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in compiler optimization. 
+I am a third year Ph.D. student in computer science at [University of California, San Diego](https://cse.ucsd.edu/). I am fortunate to work with [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). My research aims to enhance software reliability and efficiency through **program synthesis**, with a current focus on its applications in static analysis and compiler optimization.
+
 <!-- I worked as an Applied Scientist Intern at [Amazon Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning), mentored by [Victor Nicolet](https://www.cs.toronto.edu/~victorn/) and [Joey Dodds](https://www.amazon.science/author/joey-dodds). -->
 
 Before moving to UCSD, I had a wonderful year at [UW–Madison](https://www.wisc.edu/). I received my B.S. degree in computer science from Turing Class, [Peking University](https://pku.edu.cn), supervised by [Yingfei Xiong](https://xiongyingfei.github.io/) and [Di Wang](https://stonebuddha.github.io/).
