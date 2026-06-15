@@ -7,7 +7,7 @@ subtitle: Ph.D. student in Computer Science at <a href='https://cse.ucsd.edu/'>U
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>xup002 [at] ucsd [dot] edu</p>
 
