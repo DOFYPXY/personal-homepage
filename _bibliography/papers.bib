@@ -10,7 +10,12 @@
   annotation      = {* Equal contribution},
   booktitle       = {Symposium on Principles of Programming Languages},
   year            = {2027},
-  additional_info = {&nbsp;(To appear)}
+  additional_info = {&nbsp;(To appear)},
+  abstract        = {Precise dataflow analyses are essential to modern compiler optimization, but their effectiveness depends on carefully engineered abstract transformers for the instruction idioms that occur in real programs. In LLVM, these transformers have been refined manually over many years, typically in response to human observations about missed facts and lost optimization opportunities.
+
+This paper introduces SimplyTheBest, a data-driven technique for improving this process automatically. Rather than requiring compiler developers to notice and hand-code each missing case, SimplyTheBest mines recurring instruction patterns where a current analysis loses precision and where a more precise interpretation could expose new optimizations. For each such pattern, SimplyTheBest uses a formal specification of the instructions being analyzed to construct a maximally precise abstract transformer for the specific abstract input values that are seen during compilation. Our key observations that render this approach practical are (1) a large corpus of software is available to inform offline synthesis and (2) analyses in LLVM exercise only a very small fraction of their abstract domains. SimplyTheBest exploits this sparsity by representing each synthesized transformer as a compact lookup table from abstract inputs to precise abstract outputs, and aggressively minimizing these tables so they are cheap enough to use inside existing compiler analyses.
+
+On the high-profile dataset llvm-opt-benchmark, SimplyTheBest discovers millions of known bits beyond LLVM's hand-engineered analysis and enables optimizations such as removing a load and replacing a function by a constant. These results show that compiler analyses can be systematically improved by mining the precision gaps that matter and synthesizing inexpensive transformers to close them.}
 }
 
 @inproceedings{Peng2026Transformer,
